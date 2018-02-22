@@ -24,7 +24,7 @@ Use only these three methods on `List[Char]` that are useful for this exercise :
  - `chars.tail: List[Char]` ; returns the list without the first element
 
 
-**Hint**: you can define an inner function if you need to pass extra parameters to your function.
+**Hint**: you can define an inner function or use default paramteres if you need to pass extra parameters to your function.
 
 **Testing**: You can use the `toList` method to convert from a `String` to a `List[Char]`: e.g. `"(just an) example".toList`.
 
